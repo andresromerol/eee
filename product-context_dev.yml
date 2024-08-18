@@ -1,0 +1,4 @@
+product:
+  profile:
+    name: dev
+    message: "development environment"

@@ -1,0 +1,4 @@
+product:
+  profile:
+    name: default
+    message: "default environment"
